@@ -267,7 +267,18 @@ footer i {
         flex-direction: column;
         align-items: center;
     }
+    #contacte {
+        margin-left: -40px;
+    }
     #billet {
-        margin-left: -5%;
+        margin-left: 10px;
+    }
+    #footer2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    #espacer {
+        margin-right: 0px;
+        margin-left: 0px;
     }
 }
