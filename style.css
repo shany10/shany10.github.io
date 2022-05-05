@@ -268,10 +268,10 @@ footer i {
         align-items: center;
     }
     #contacte {
-        margin-left: -40px;
+        margin-left: -55px;
     }
     #billet {
-        margin-left: 10px;
+        margin-left: 0px;
     }
     #footer2 {
         flex-direction: column;
