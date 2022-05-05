@@ -4,7 +4,7 @@
 body {
     background: white;
     font-size: 80%;
-    color: gray;
+    color: rgb(110, 109, 109);
     margin: 0px;
 }
 header {
@@ -129,14 +129,15 @@ iframe {
 #accrobranche1{
    margin-right: 40px; 
 }
-#accrobranche1 h3 {
+#accrobranche1 h2 {
     margin-top: 40px;
 }
 .orange {
     margin-bottom: -8px;
     color: rgb(255, 115, 0);
     font-family: "Oswald";
-    font-weight: 450;
+    font-size: 15px;
+    font-weight: 500;
 }
 .blockMargeBottom {
     margin-bottom: 40px;
@@ -145,7 +146,7 @@ iframe {
     line-height: 20px;
     font-family: "droid-sans";
 }
-#COMMENTAIRES1 h3 {
+#COMMENTAIRES1 h2 {
     margin-top: 40px;
 }
 #COMMENTAIRES1 img {
@@ -160,11 +161,12 @@ iframe {
     display: flex;
     justify-content: center;
 }
-#footer1 h3 {
+#footer1 h2 {
     margin-bottom: 1px;
     font-family: "Oswald";
     color: rgb(175, 174, 174);
     letter-spacing: 0px;
+    font-size: 14px;
 }
 #footer1 li {
     font-size: 11.5px;
