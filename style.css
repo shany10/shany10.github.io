@@ -249,3 +249,11 @@ footer i {
     margin-top: 10px;
     margin-bottom: 50px;
 }
+@media screen and (max-width: 960px) {
+    #header1{
+        display: block;
+    }
+    #block3{
+        display: block; 
+    }
+}
