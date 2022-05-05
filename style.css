@@ -251,9 +251,23 @@ footer i {
 }
 @media screen and (max-width: 960px) {
     #header1{
-        display: block;
+        flex-direction: column;
+    }
+    header img {
+        margin-left: 5%;
     }
     #block3{
-        display: block; 
+        flex-direction: column;
+        align-items: center;
+    }
+    #COMMENTAIRES1 {
+        margin-left: 5%;
+    }
+    #footer1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    #billet {
+        margin-left: -5%;
     }
 }
